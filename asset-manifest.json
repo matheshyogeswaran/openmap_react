@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/openmap_react/static/css/main.beb129fe.css",
+    "main.js": "/openmap_react/static/js/main.cd48d1f4.js",
+    "index.html": "/openmap_react/index.html",
+    "main.beb129fe.css.map": "/openmap_react/static/css/main.beb129fe.css.map",
+    "main.cd48d1f4.js.map": "/openmap_react/static/js/main.cd48d1f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb129fe.css",
+    "static/js/main.cd48d1f4.js"
+  ]
+}
